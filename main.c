@@ -1,10 +1,8 @@
 /*
 Pelo terminal:
-Windows: mingw32-make
-
+mingw32-make
 Para executar:
-./bagunceitor [arquivo com a imagem de entrada]
-
+./bagunceitor.exe predio32.jpg
 */
 #include <stdio.h>
 #include <stdlib.h>
